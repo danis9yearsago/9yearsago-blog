@@ -1,6 +1,6 @@
-# [9 years ago blog](https://blog.9yearsago.com)
+# [9 years ago](https://blog.9yearsago.com)
 
-[![GitHub license](https://img.shields.io/badge/license-MIT-lightgrey.svg)]
+![GitHub license](https://img.shields.io/badge/license-MIT-lightgrey.svg)
 
 9 years ago blog.
 
@@ -8,7 +8,7 @@
 
 ## Acknowledgments
 
-** Thanks a lot for Michael Rose and his awesome project**
+**Thanks a lot for Michael Rose and his awesome project**
 
 - <https://mademistakes.com>
 - <https://github.com/mmistakes>
