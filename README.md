@@ -2,7 +2,7 @@
 
 ![GitHub license](https://img.shields.io/badge/license-MIT-lightgrey.svg)
 
-9 years ago blog.
+blog of 9yearsago project.
 
 ---
 
