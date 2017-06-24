@@ -11,9 +11,9 @@ title                    : "9 years ago"
 title_separator          : "-"
 name                     : "9 years ago"
 description              : "Data is already Science."
-url                      : # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
+url                      : "https://blog.9yearsago.com"
 baseurl                  : # the subpath of your site, e.g. "/blog"
-repository               : # GitHub username/repo-name e.g. "mmistakes/minimal-mistakes"
+repository               : "danis9yearsago/9yearsago-blog"
 teaser                   : # path of fallback teaser image, e.g. "/assets/images/500x300.png"
 # breadcrumbs            : false # true, false (default)
 words_per_minute         : 200
