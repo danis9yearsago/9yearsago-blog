@@ -8,10 +8,9 @@ blog of 9yearsago project.
 
 ## Acknowledgments
 
-**Thanks a lot for Michael Rose and his awesome project**
+**Thanks a lot for Michael Rose and his awesome project:**
 
-- <https://mademistakes.com>
-- <https://github.com/mmistakes>
+- <https://mmistakes.github.io/minimal-mistakes/>
 - <https://github.com/mmistakes/minimal-mistakes/>
 
 ## License
