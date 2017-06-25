@@ -7,9 +7,9 @@
 
 # Site Settings
 locale                   : "ru"
-title                    : "9 years ago"
+title                    : "9yearsago"
 title_separator          : "-"
-name                     : "9 years ago"
+name                     : "9yearsago"
 description              : "Data is already Science."
 url                      : "https://blog.9yearsago.com"
 baseurl                  : # the subpath of your site, e.g. "/blog"
@@ -79,9 +79,9 @@ analytics:
 author:
   name             : "Danis Nya"
   avatar           : # path of avatar image, e.g. "/assets/images/bio-photo.jpg"
-  bio              : "I am an amazing person."
-  location         : "Around the world"
-  email            : "danis@9yearsago.com"
+  bio              : # "I am an amazing person."
+  location         : # "Around the world"
+  email            : # "danis@9yearsago.com"
   uri              :
   bitbucket        :
   codepen          :
