@@ -13,7 +13,7 @@ name                     : "9 years ago"
 description              : "Data is already Science."
 url                      : "https://blog.9yearsago.com"
 baseurl                  : # the subpath of your site, e.g. "/blog"
-repository               : "danis9yearsago/9yearsago-blog"
+repository               : "danis9yearsago/blog9yearsago"
 teaser                   : # path of fallback teaser image, e.g. "/assets/images/500x300.png"
 # breadcrumbs            : false # true, false (default)
 words_per_minute         : 200
