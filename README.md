@@ -1,8 +1,8 @@
-# [9 years ago](https://blog.9yearsago.com)
+# [blog9yearsago](https://blog.9yearsago.com)
 
 ![GitHub license](https://img.shields.io/badge/license-MIT-lightgrey.svg)
 
-blog of 9yearsago project.
+blog of 9yearsago
 
 ---
 
