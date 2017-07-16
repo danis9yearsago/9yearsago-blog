@@ -1,4 +1,4 @@
-# [blog9yearsago](https://blog.9yearsago.com)
+# [blog.9yearsago.com](https://blog.9yearsago.com)
 
 9yearsago project blog
 
